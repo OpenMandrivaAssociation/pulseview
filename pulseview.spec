@@ -10,7 +10,7 @@
 
 Name:		pulseview
 Version:	0.5.0+git%{sourcedate}.%{gitcommit}
-Release:	1
+Release:	2
 Summary:	PulseView is a Qt-based LA/scope/MSO GUI for sigrok
 URL:		http://www.sigrok.org
 License:	GPL-3.0-or-later
