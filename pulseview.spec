@@ -25,6 +25,7 @@ Source0:	%{name}-%{sourcedate}-%{gitcommit}.tar.zst
 #BuildRequires:	atomic-devel
 BuildRequires:	asciidoctor
 BuildRequires:	cmake
+BuildRequires:	ninja
 BuildRequires:	boost-devel
 BuildRequires:	pkgconfig
 BuildRequires:	pkgconfig(Qt6Core)
